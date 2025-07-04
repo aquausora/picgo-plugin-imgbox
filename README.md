@@ -1,9 +1,9 @@
 
 # picgo-plugin-imgbox
 
-![NPM Version](https://img.shields.io/npm/v/picgo-plugin-imgbox) ![GitHub License](https://img.shields.io/github/license/aquausora/picgo-plugin-imgbox)
-
 > 用于 [PicGo](https://github.com/Molunerfinn/PicGo) 的 [Imgbox](https://imgbox.com/) 图床插件。
+
+![NPM Version](https://img.shields.io/npm/v/picgo-plugin-imgbox) ![GitHub License](https://img.shields.io/github/license/aquausora/picgo-plugin-imgbox)
 
 ## 插件设置
 
