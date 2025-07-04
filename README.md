@@ -1,5 +1,5 @@
 
-# `picgo-plugin-imgbox`
+# picgo-plugin-imgbox
 
 ![NPM Version](https://img.shields.io/npm/v/picgo-plugin-imgbox) ![GitHub License](https://img.shields.io/github/license/aquausora/picgo-plugin-imgbox)
 
