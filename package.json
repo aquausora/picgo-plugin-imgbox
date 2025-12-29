@@ -24,7 +24,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aquausora/picgo-plugin-imgbox"
+    "url": "https://github.com/aquausora/picgo-plugin-imgbox.git"
   },
   "devDependencies": {
     "eslint": "^8.25.0",
